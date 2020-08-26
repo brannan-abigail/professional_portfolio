@@ -2,7 +2,7 @@
 My digital portfolio was initially created as a project for CSCE 315 and to be maintained and moified as a portfolio to showcase my projects and personality; 
 this version is simplified in the number of topics associated, with the subjects remaining expanded to meet the assignment requirements for the Bio 
 Assignment from CSCE 436-500. The website format was chosen to incorporate a higher level of interactivity with users than a video or paper would.
-View the weebsite at: http://people.tamu.edu/~brannan.abby/.
+View the weebsite at: https://brannan-abigail.github.io/professional_portfolio/.
 The Github Repo and relevant branch is publicly available at: https://github.com/brannan-abigail/professional_portfolio/tree/csce_436_bio. 
 
 ## Authors
