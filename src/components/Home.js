@@ -7,8 +7,8 @@ export default function Home() {
       <h2>Howdy!</h2>
 
       <p>
-        I'm an aspiring Software Engineer. I find solving technical problems satisfying, 
-        much like finishing a puzzle. Especially as the field challenges one to continuously 
+        I'm an aspiring Software Engineer that finds solving technical problems satisfying, 
+        much like finishing a puzzle. I especially enjoy that this field challenges one to continuously 
         learn new languages, philosophies and techniques, which is quite exciting! 
         Technology is a powerful tool for making positive change, and it's invigorating to 
         be a part of it.
