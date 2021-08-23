@@ -6,6 +6,11 @@ import {
     Link
 } from "react-router-dom";
 import Home from "./Home";
+import Education from "./Education";
+import Skills from "./Skills";
+import Experience from "./Experience";
+import Projects from "./Projects";
+import Activities from "./Activities";
 
 export default function NavBar() {
   return (
@@ -32,19 +37,19 @@ export default function NavBar() {
             renders the first one that matches the current URL. */}
         <Switch>
           <Route path="/education">
-            {/* <Education /> */}
+            <Education />
           </Route>
           <Route path="/skills">
-            {/* <Skills /> */}
+            <Skills />
           </Route>
           <Route path="/experience">
-            {/* <Experience /> */}
+            <Experience />
           </Route>
           <Route path="/projects">
-            {/* <Projects /> */}
+            <Projects />
           </Route>
           <Route path="/activities">
-            {/* <Activities /> */}
+            <Activities />
           </Route>
           <Route path="/">
             <Home />
